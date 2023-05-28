@@ -8,6 +8,12 @@ print('Sample string = "my"')
 string = 'my'
 print('Expected string = ',string*2)
 print()
+text = 'x'
+if len(text) < 2:
+    text = ''
+
+print('Expected result:', text)
+
 
 # task 2
 user = int(input("Write a phone number only 10 caracters: "))
