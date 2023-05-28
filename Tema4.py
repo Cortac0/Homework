@@ -13,6 +13,7 @@ if len(text) < 2:
     text = ''
 
 print('Expected result:', text)
+print()
 
 
 # task 2
