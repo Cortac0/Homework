@@ -26,4 +26,4 @@ print('Multiplication =', a * b)
 print('Exponentiation =', a * b)
 print('Modulus =', a % b)
 print('Floor division =', a // b)
-
+print()

@@ -32,5 +32,6 @@ if lower == stored:
     print(True)
 else:
     print(False)
+print()
 
 
