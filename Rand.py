@@ -12,4 +12,4 @@ print(f'Lista random este {lista_random}')
 random.shuffle(lista)
 print(f'Lista random este {lista}')
 
-print()
+print('hmm')
