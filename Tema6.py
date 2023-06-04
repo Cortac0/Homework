@@ -1,4 +1,4 @@
-# task 1
+# # task 1
 import random
 
 numbers = []
@@ -19,7 +19,7 @@ while i < len(numbers):
     i += 1
 print('Cel mai mare numar este: ', largest)
 
-# task 2
+# # task 2
 lista1 = []
 lista2 = []
 count1 = 0
@@ -53,7 +53,7 @@ print('Lista',lista)
 divizibile_cu_7 = []
 i = 0
 for i in lista:
-    if i & 7 == 0:
+    if i & 7 == 0 and i % 5 != 0: 
         divizibile_cu_7.append(i)
 print('Divizibile cu 7: ',divizibile_cu_7)
 
