@@ -12,3 +12,4 @@ a = c * 9
 b = '''       '''
 print(f'{a}\n{c}{b}{c}\n{c}{b}{c}\n{c}{b}{c}\n{a}\n\n')
 print(f'{c}{b}{c}\n{c}{b}{c}\n{a}\n{c}{b}{c}\n{c}{b}{c}')
+print()
