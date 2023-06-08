@@ -21,6 +21,7 @@
 
 # task 3
 def make_operation(operation, *args):
+    arg = list(args)
     total = 0
     operation = args.pop(0)
     
