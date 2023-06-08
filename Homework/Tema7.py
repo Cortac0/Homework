@@ -12,8 +12,6 @@ def string(word):
             dictionar[word] = 1
 
     return dictionar
-
-# Example usage
 user_word = input("Enter a string: ")
 result = string(user_word)
 print(result)
